@@ -1,2 +1,3 @@
 # social-media-addiction
-Working with a student data set on Excel to analyze social media use, addiction, and its impacts.
+This Excel project analyzes survey data from students to understand how social media usage affects sleep, academics, and mental health. 
+
